@@ -75,8 +75,7 @@ curl https://assets.nagios.com/downloads/nagiosxi/install.sh | sh
 
 ----------------------------------------------------------------------------------------
 
-# Lesson 9 Demo 2
-Adding Hosts to the Nagios Monitoring Tool
+# Adding Hosts to the Nagios Monitoring Tool
 
 
 ### Steps to be followed:
