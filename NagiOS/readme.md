@@ -1,6 +1,5 @@
 
-# Lesson 9 Demo 1
-How to Install Nagios Monitoring Tool
+# How to Install Nagios Monitoring Tool
 
 
 ### Steps to be followed:
