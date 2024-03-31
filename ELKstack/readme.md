@@ -17,7 +17,7 @@
 
 ```
  su
-git clone https://github.com/Siraj-ul-muneera/ELKExample.git
+git clone [https://github.com/Rosh-yadav/Elk-stack.git](https://github.com/Rosh-yadav/Elk-stack.git)
 cd ELKExample
 ls -alrt
  
